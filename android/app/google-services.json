@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964839116338",
+    "project_id": "wedding-planner-iti",
+    "storage_bucket": "wedding-planner-iti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964839116338:android:e8428d6c3ca6e348f8f62b",
+        "android_client_info": {
+          "package_name": "com.example.wedding_planner_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964839116338-scunn2fpdk2a0tavn956p1p6rt38tvtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDW8X8i2KRGN3Gu5mMamL8D5r0y-1d084"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964839116338-scunn2fpdk2a0tavn956p1p6rt38tvtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
